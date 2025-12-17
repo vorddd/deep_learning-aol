@@ -1,0 +1,7 @@
+video: C:/Users/User/Desktop/AOL_DL/video_data/video1.mp4
+weights: C:\Users\User\Desktop\final_aol_deep-learning\Yolo-Weights\yolov8m.pt
+fps: 30.000
+total_count: 214
+counts_by_class: {'car': 79, 'motorbike': 108, 'bus': 2, 'truck': 25}
+tracks_csv: c:\Users\User\Desktop\final_aol_deep-learning\vehicle_counter-tracker\outputs\run_20251217_195856\tracks_log.csv
+timeseries_csv: c:\Users\User\Desktop\final_aol_deep-learning\vehicle_counter-tracker\outputs\run_20251217_195856\timeseries_0p5s.csv
